@@ -1,0 +1,385 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\parcial test\\UI parcial.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaCliente\\FormAltaPasajero.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaCliente\\FormAltaPasajero.csproj",
+        "projectName": "FormAltaPasajero",
+        "projectPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaCliente\\FormAltaPasajero.csproj",
+        "packagesPath": "C:\\Users\\nodom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaCliente\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nodom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaPasaje\\FormAltaPasaje.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaPasaje\\FormAltaPasaje.csproj",
+        "projectName": "FormAltaPasaje",
+        "projectPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaPasaje\\FormAltaPasaje.csproj",
+        "packagesPath": "C:\\Users\\nodom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaPasaje\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nodom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaVuelo\\FormAltaVuelo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaVuelo\\FormAltaVuelo.csproj",
+        "projectName": "FormAltaVuelo",
+        "projectPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaVuelo\\FormAltaVuelo.csproj",
+        "packagesPath": "C:\\Users\\nodom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaVuelo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nodom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\nodom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nodom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\parcial test\\UI parcial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\parcial test\\UI parcial.csproj",
+        "projectName": "UI parcial",
+        "projectPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\parcial test\\UI parcial.csproj",
+        "packagesPath": "C:\\Users\\nodom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\parcial test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nodom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaCliente\\FormAltaPasajero.csproj": {
+                "projectPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaCliente\\FormAltaPasajero.csproj"
+              },
+              "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaPasaje\\FormAltaPasaje.csproj": {
+                "projectPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaPasaje\\FormAltaPasaje.csproj"
+              },
+              "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaVuelo\\FormAltaVuelo.csproj": {
+                "projectPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\AltaVuelo\\FormAltaVuelo.csproj"
+              },
+              "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\Entidades\\Entidades.csproj"
+              },
+              "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\VistaPasajes\\VistaPasajes.csproj": {
+                "projectPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\VistaPasajes\\VistaPasajes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\VistaPasajes\\VistaPasajes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\VistaPasajes\\VistaPasajes.csproj",
+        "projectName": "VistaPasajes",
+        "projectPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\VistaPasajes\\VistaPasajes.csproj",
+        "packagesPath": "C:\\Users\\nodom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\VistaPasajes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nodom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\nodom\\Documents\\PROGRAMACIÓN\\PROGRAMACION 2\\parcial_1\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

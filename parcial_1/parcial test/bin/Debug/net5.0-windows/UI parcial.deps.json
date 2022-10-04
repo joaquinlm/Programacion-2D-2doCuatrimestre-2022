@@ -1,0 +1,92 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UI parcial/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "FormAltaPasaje": "1.0.0",
+          "FormAltaPasajero": "1.0.0",
+          "FormAltaVuelo": "1.0.0",
+          "VistaPasajes": "1.0.0"
+        },
+        "runtime": {
+          "UI parcial.dll": {}
+        }
+      },
+      "Entidades/1.0.0": {
+        "runtime": {
+          "Entidades.dll": {}
+        }
+      },
+      "FormAltaPasaje/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "runtime": {
+          "FormAltaPasaje.dll": {}
+        }
+      },
+      "FormAltaPasajero/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "runtime": {
+          "FormAltaPasajero.dll": {}
+        }
+      },
+      "FormAltaVuelo/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "runtime": {
+          "FormAltaVuelo.dll": {}
+        }
+      },
+      "VistaPasajes/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "runtime": {
+          "VistaPasajes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UI parcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FormAltaPasaje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FormAltaPasajero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FormAltaVuelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VistaPasajes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
